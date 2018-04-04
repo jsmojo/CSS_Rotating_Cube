@@ -1,11 +1,11 @@
 ## Installing
 
 ```
-$ git clone https://github.com/jsmojo/react-boot/
+$ git clone https://github.com/jsmojo/css_rotating_cube/
 ```
 
 ```
-$ cd boot
+$ cd css_rotating_cube
 ```
 
 ```
