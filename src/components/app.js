@@ -7,7 +7,6 @@ const App = () => (
   <div className={pageStyles.App}>
   <div className={pageStyles.header}>
     <img src={logo} className={pageStyles.logo} alt="logo" />
-    <h2 className={pageStyles.intro}>React Quiz</h2>
   </div>
   <div className={pageStyles.content}>
     
